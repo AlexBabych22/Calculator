@@ -38,14 +38,10 @@
 
 .click{
   cursor: pointer;
-  &_small{
-    &:hover{
-      color: rgb(0, 0, 0);}
-  }
   &:hover{
   background-color: rgba(105, 105, 105, 0.349);
   border: 1px solid rgb(168, 168, 168);
-  color: rgb(0, 0, 0);}
+  }
 }
 
 .first-block{
